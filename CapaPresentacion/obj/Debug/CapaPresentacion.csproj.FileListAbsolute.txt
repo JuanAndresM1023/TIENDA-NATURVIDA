@@ -1,0 +1,233 @@
+C:\Users\Sena CSET\Desktop\Tienda Naturista Examen\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Sena CSET\Desktop\Tienda Naturista Examen\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\Sena CSET\Desktop\Tienda Naturista Examen\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Sena CSET\Desktop\Tienda Naturista Examen\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\Sena CSET\Desktop\Tienda Naturista Examen\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sena CSET\Desktop\Tienda Naturista Examen\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Sena CSET\Desktop\Tienda Naturista Examen\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\Sena CSET\Desktop\Tienda Naturista Examen\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Sena CSET\Desktop\Tienda Naturista Examen\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\Sena CSET\Desktop\Tienda Naturista Examen\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Sena CSET\Desktop\Tienda Naturista Examen\CapaPresentacion\bin\Debug\CapaNegocios.dll
+C:\Users\Sena CSET\Desktop\Tienda Naturista Examen\CapaPresentacion\bin\Debug\CapaNegocios.pdb
+C:\Users\Sena CSET\Desktop\Tienda Naturista Examen\CapaPresentacion\obj\Debug\CapaPresentacion.INICIO_SESION.resources
+C:\Users\Sena CSET\Desktop\Tienda Naturista Examen\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\Sena CSET\Desktop\Tienda Naturista Examen\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\Sena CSET\Desktop\Tienda Naturista Examen\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\Sena CSET\Desktop\Tienda Naturista Examen\CapaPresentacion\obj\Debug\CapaPresentacion.Principal.resources
+C:\Users\57320\Desktop\NATURVIDA\Tienda Naturista Examen- - 3 capas\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\57320\Desktop\NATURVIDA\Tienda Naturista Examen- - 3 capas\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\57320\Desktop\NATURVIDA\Tienda Naturista Examen- - 3 capas\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\57320\Desktop\NATURVIDA\Tienda Naturista Examen- - 3 capas\CapaPresentacion\bin\Debug\CapaNegocios.dll
+C:\Users\57320\Desktop\NATURVIDA\Tienda Naturista Examen- - 3 capas\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\57320\Desktop\NATURVIDA\Tienda Naturista Examen- - 3 capas\CapaPresentacion\bin\Debug\CapaNegocios.pdb
+C:\Users\57320\Desktop\NATURVIDA\Tienda Naturista Examen- - 3 capas\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\57320\Desktop\NATURVIDA\Tienda Naturista Examen- - 3 capas\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\57320\Desktop\NATURVIDA\Tienda Naturista Examen- - 3 capas\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\57320\Desktop\NATURVIDA\Tienda Naturista Examen- - 3 capas\CapaPresentacion\obj\Debug\CapaPresentacion.Principal.resources
+C:\Users\57320\Desktop\NATURVIDA\Tienda Naturista Examen- - 3 capas\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\57320\Desktop\NATURVIDA\Tienda Naturista Examen- - 3 capas\CapaPresentacion\obj\Debug\CapaPresentacion.INICIO_SESION.resources
+C:\Users\57320\Desktop\NATURVIDA\Tienda Naturista Examen- - 3 capas\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\57320\Desktop\NATURVIDA\Tienda Naturista Examen- - 3 capas\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\57320\Desktop\NATURVIDA\Tienda Naturista Examen- - 3 capas\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\57320\Desktop\NATURVIDA\Tienda Naturista Examen- - 3 capas\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\57320\Desktop\NATURVIDA\Tienda Naturista Examen- - 3 capas\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\57320\Desktop\NATURVIDA\Tienda Naturista Examen\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\57320\Desktop\NATURVIDA\Tienda Naturista Examen\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\57320\Desktop\NATURVIDA\Tienda Naturista Examen\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\57320\Desktop\NATURVIDA\Tienda Naturista Examen\CapaPresentacion\bin\Debug\CapaNegocios.dll
+C:\Users\57320\Desktop\NATURVIDA\Tienda Naturista Examen\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\57320\Desktop\NATURVIDA\Tienda Naturista Examen\CapaPresentacion\bin\Debug\CapaNegocios.pdb
+C:\Users\57320\Desktop\NATURVIDA\Tienda Naturista Examen\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\57320\Desktop\NATURVIDA\Tienda Naturista Examen\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\57320\Desktop\NATURVIDA\Tienda Naturista Examen\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\57320\Desktop\NATURVIDA\Tienda Naturista Examen\CapaPresentacion\obj\Debug\CapaPresentacion.Principal.resources
+C:\Users\57320\Desktop\NATURVIDA\Tienda Naturista Examen\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\57320\Desktop\NATURVIDA\Tienda Naturista Examen\CapaPresentacion\obj\Debug\CapaPresentacion.INICIO_SESION.resources
+C:\Users\57320\Desktop\NATURVIDA\Tienda Naturista Examen\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\57320\Desktop\NATURVIDA\Tienda Naturista Examen\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\57320\Desktop\NATURVIDA\Tienda Naturista Examen\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\57320\Desktop\NATURVIDA\Tienda Naturista Examen\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\57320\Desktop\NATURVIDA\Tienda Naturista Examen\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\57320\Desktop\NATURVIDA\Tienda Naturista Examen\CapaPresentacion\bin\Debug\CapaEntidades.dll
+C:\Users\57320\Desktop\NATURVIDA\Tienda Naturista Examen\CapaPresentacion\bin\Debug\CapaEntidades.pdb
+C:\Users\EDMUNDO RIBERO\Desktop\NATURVIDA\Tienda Naturista Examen\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\EDMUNDO RIBERO\Desktop\NATURVIDA\Tienda Naturista Examen\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\EDMUNDO RIBERO\Desktop\NATURVIDA\Tienda Naturista Examen\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\EDMUNDO RIBERO\Desktop\NATURVIDA\Tienda Naturista Examen\CapaPresentacion\bin\Debug\CapaEntidades.dll
+C:\Users\EDMUNDO RIBERO\Desktop\NATURVIDA\Tienda Naturista Examen\CapaPresentacion\bin\Debug\CapaNegocios.dll
+C:\Users\EDMUNDO RIBERO\Desktop\NATURVIDA\Tienda Naturista Examen\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\EDMUNDO RIBERO\Desktop\NATURVIDA\Tienda Naturista Examen\CapaPresentacion\bin\Debug\CapaEntidades.pdb
+C:\Users\EDMUNDO RIBERO\Desktop\NATURVIDA\Tienda Naturista Examen\CapaPresentacion\bin\Debug\CapaNegocios.pdb
+C:\Users\EDMUNDO RIBERO\Desktop\NATURVIDA\Tienda Naturista Examen\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\EDMUNDO RIBERO\Desktop\NATURVIDA\Tienda Naturista Examen\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\EDMUNDO RIBERO\Desktop\NATURVIDA\Tienda Naturista Examen\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\EDMUNDO RIBERO\Desktop\NATURVIDA\Tienda Naturista Examen\CapaPresentacion\obj\Debug\CapaPresentacion.Principal.resources
+C:\Users\EDMUNDO RIBERO\Desktop\NATURVIDA\Tienda Naturista Examen\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\EDMUNDO RIBERO\Desktop\NATURVIDA\Tienda Naturista Examen\CapaPresentacion\obj\Debug\CapaPresentacion.INICIO_SESION.resources
+C:\Users\EDMUNDO RIBERO\Desktop\NATURVIDA\Tienda Naturista Examen\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\EDMUNDO RIBERO\Desktop\NATURVIDA\Tienda Naturista Examen\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\EDMUNDO RIBERO\Desktop\NATURVIDA\Tienda Naturista Examen\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\EDMUNDO RIBERO\Desktop\NATURVIDA\Tienda Naturista Examen\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\EDMUNDO RIBERO\Desktop\NATURVIDA\Tienda Naturista Examen\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Sena CSET\Desktop\NATURVIDA_2.0\NATURVIDA.2.0\Tienda Naturista Examen\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Sena CSET\Desktop\NATURVIDA_2.0\NATURVIDA.2.0\Tienda Naturista Examen\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\Sena CSET\Desktop\NATURVIDA_2.0\NATURVIDA.2.0\Tienda Naturista Examen\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Sena CSET\Desktop\NATURVIDA_2.0\NATURVIDA.2.0\Tienda Naturista Examen\CapaPresentacion\bin\Debug\CapaEntidades.dll
+C:\Users\Sena CSET\Desktop\NATURVIDA_2.0\NATURVIDA.2.0\Tienda Naturista Examen\CapaPresentacion\bin\Debug\CapaNegocios.dll
+C:\Users\Sena CSET\Desktop\NATURVIDA_2.0\NATURVIDA.2.0\Tienda Naturista Examen\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\Sena CSET\Desktop\NATURVIDA_2.0\NATURVIDA.2.0\Tienda Naturista Examen\CapaPresentacion\bin\Debug\CapaEntidades.pdb
+C:\Users\Sena CSET\Desktop\NATURVIDA_2.0\NATURVIDA.2.0\Tienda Naturista Examen\CapaPresentacion\bin\Debug\CapaNegocios.pdb
+C:\Users\Sena CSET\Desktop\NATURVIDA_2.0\NATURVIDA.2.0\Tienda Naturista Examen\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\Sena CSET\Desktop\NATURVIDA_2.0\NATURVIDA.2.0\Tienda Naturista Examen\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\Sena CSET\Desktop\NATURVIDA_2.0\NATURVIDA.2.0\Tienda Naturista Examen\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sena CSET\Desktop\NATURVIDA_2.0\NATURVIDA.2.0\Tienda Naturista Examen\CapaPresentacion\obj\Debug\CapaPresentacion.Principal.resources
+C:\Users\Sena CSET\Desktop\NATURVIDA_2.0\NATURVIDA.2.0\Tienda Naturista Examen\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Sena CSET\Desktop\NATURVIDA_2.0\NATURVIDA.2.0\Tienda Naturista Examen\CapaPresentacion\obj\Debug\CapaPresentacion.INICIO_SESION.resources
+C:\Users\Sena CSET\Desktop\NATURVIDA_2.0\NATURVIDA.2.0\Tienda Naturista Examen\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\Sena CSET\Desktop\NATURVIDA_2.0\NATURVIDA.2.0\Tienda Naturista Examen\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Sena CSET\Desktop\NATURVIDA_2.0\NATURVIDA.2.0\Tienda Naturista Examen\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\Sena CSET\Desktop\NATURVIDA_2.0\NATURVIDA.2.0\Tienda Naturista Examen\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\Sena CSET\Desktop\NATURVIDA_2.0\NATURVIDA.2.0\Tienda Naturista Examen\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Sena CSET\Desktop\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Sena CSET\Desktop\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\Sena CSET\Desktop\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Sena CSET\Desktop\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaPresentacion\bin\Debug\CapaEntidades.dll
+C:\Users\Sena CSET\Desktop\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaPresentacion\bin\Debug\CapaNegocios.dll
+C:\Users\Sena CSET\Desktop\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\Sena CSET\Desktop\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaPresentacion\bin\Debug\CapaEntidades.pdb
+C:\Users\Sena CSET\Desktop\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaPresentacion\bin\Debug\CapaNegocios.pdb
+C:\Users\Sena CSET\Desktop\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\Sena CSET\Desktop\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\Sena CSET\Desktop\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sena CSET\Desktop\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaPresentacion\obj\Debug\CapaPresentacion.Principal.resources
+C:\Users\Sena CSET\Desktop\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Sena CSET\Desktop\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaPresentacion\obj\Debug\CapaPresentacion.INICIO_SESION.resources
+C:\Users\Sena CSET\Desktop\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\Sena CSET\Desktop\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Sena CSET\Desktop\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\Sena CSET\Desktop\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\Sena CSET\Desktop\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+F:\PROYECTO NATURVIDA\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+F:\PROYECTO NATURVIDA\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+F:\PROYECTO NATURVIDA\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+F:\PROYECTO NATURVIDA\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaPresentacion\bin\Debug\CapaEntidades.dll
+F:\PROYECTO NATURVIDA\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaPresentacion\bin\Debug\CapaNegocios.dll
+F:\PROYECTO NATURVIDA\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaPresentacion\bin\Debug\CapaDatos.dll
+F:\PROYECTO NATURVIDA\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaPresentacion\bin\Debug\CapaEntidades.pdb
+F:\PROYECTO NATURVIDA\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaPresentacion\bin\Debug\CapaNegocios.pdb
+F:\PROYECTO NATURVIDA\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaPresentacion\bin\Debug\CapaDatos.pdb
+F:\PROYECTO NATURVIDA\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+F:\PROYECTO NATURVIDA\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.SuggestedBindingRedirects.cache
+F:\PROYECTO NATURVIDA\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaPresentacion\obj\Debug\CapaPresentacion.Principal.resources
+F:\PROYECTO NATURVIDA\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+F:\PROYECTO NATURVIDA\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaPresentacion\obj\Debug\CapaPresentacion.INICIO_SESION.resources
+F:\PROYECTO NATURVIDA\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+F:\PROYECTO NATURVIDA\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+F:\PROYECTO NATURVIDA\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+F:\PROYECTO NATURVIDA\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+F:\PROYECTO NATURVIDA\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Sena CSET\Desktop\PROYECTO NATURVIDA\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Sena CSET\Desktop\PROYECTO NATURVIDA\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\Sena CSET\Desktop\PROYECTO NATURVIDA\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Sena CSET\Desktop\PROYECTO NATURVIDA\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaPresentacion\bin\Debug\CapaEntidades.dll
+C:\Users\Sena CSET\Desktop\PROYECTO NATURVIDA\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaPresentacion\bin\Debug\CapaNegocios.dll
+C:\Users\Sena CSET\Desktop\PROYECTO NATURVIDA\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\Sena CSET\Desktop\PROYECTO NATURVIDA\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaPresentacion\bin\Debug\CapaEntidades.pdb
+C:\Users\Sena CSET\Desktop\PROYECTO NATURVIDA\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaPresentacion\bin\Debug\CapaNegocios.pdb
+C:\Users\Sena CSET\Desktop\PROYECTO NATURVIDA\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\Sena CSET\Desktop\PROYECTO NATURVIDA\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\Sena CSET\Desktop\PROYECTO NATURVIDA\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sena CSET\Desktop\PROYECTO NATURVIDA\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaPresentacion\obj\Debug\CapaPresentacion.Principal.resources
+C:\Users\Sena CSET\Desktop\PROYECTO NATURVIDA\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Sena CSET\Desktop\PROYECTO NATURVIDA\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaPresentacion\obj\Debug\CapaPresentacion.INICIO_SESION.resources
+C:\Users\Sena CSET\Desktop\PROYECTO NATURVIDA\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\Sena CSET\Desktop\PROYECTO NATURVIDA\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Sena CSET\Desktop\PROYECTO NATURVIDA\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\Sena CSET\Desktop\PROYECTO NATURVIDA\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\Sena CSET\Desktop\PROYECTO NATURVIDA\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Sena CSET\Desktop\PROYECTO NATURVIDA\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.ResolveComReference.cache
+C:\Users\Sena CSET\Desktop\PROYECTO NATURVIDA\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaPresentacion\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Sena CSET\Desktop\PROYECTO NATURVIDA\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaPresentacion\bin\Debug\itextsharp.dll
+C:\Users\Sena CSET\Desktop\PROYECTO NATURVIDA\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaPresentacion\bin\Debug\itextsharp.xml
+C:\Users\EDMUNDO RIBERO\Desktop\PROYECTO NATURVIDA\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\EDMUNDO RIBERO\Desktop\PROYECTO NATURVIDA\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\EDMUNDO RIBERO\Desktop\PROYECTO NATURVIDA\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\EDMUNDO RIBERO\Desktop\PROYECTO NATURVIDA\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaPresentacion\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\EDMUNDO RIBERO\Desktop\PROYECTO NATURVIDA\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaPresentacion\bin\Debug\CapaEntidades.dll
+C:\Users\EDMUNDO RIBERO\Desktop\PROYECTO NATURVIDA\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaPresentacion\bin\Debug\CapaNegocios.dll
+C:\Users\EDMUNDO RIBERO\Desktop\PROYECTO NATURVIDA\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaPresentacion\bin\Debug\itextsharp.dll
+C:\Users\EDMUNDO RIBERO\Desktop\PROYECTO NATURVIDA\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\EDMUNDO RIBERO\Desktop\PROYECTO NATURVIDA\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaPresentacion\bin\Debug\CapaEntidades.pdb
+C:\Users\EDMUNDO RIBERO\Desktop\PROYECTO NATURVIDA\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaPresentacion\bin\Debug\CapaNegocios.pdb
+C:\Users\EDMUNDO RIBERO\Desktop\PROYECTO NATURVIDA\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaPresentacion\bin\Debug\itextsharp.xml
+C:\Users\EDMUNDO RIBERO\Desktop\PROYECTO NATURVIDA\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\EDMUNDO RIBERO\Desktop\PROYECTO NATURVIDA\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\EDMUNDO RIBERO\Desktop\PROYECTO NATURVIDA\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\EDMUNDO RIBERO\Desktop\PROYECTO NATURVIDA\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.ResolveComReference.cache
+C:\Users\EDMUNDO RIBERO\Desktop\PROYECTO NATURVIDA\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaPresentacion\obj\Debug\CapaPresentacion.Principal.resources
+C:\Users\EDMUNDO RIBERO\Desktop\PROYECTO NATURVIDA\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\EDMUNDO RIBERO\Desktop\PROYECTO NATURVIDA\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaPresentacion\obj\Debug\CapaPresentacion.INICIO_SESION.resources
+C:\Users\EDMUNDO RIBERO\Desktop\PROYECTO NATURVIDA\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\EDMUNDO RIBERO\Desktop\PROYECTO NATURVIDA\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\EDMUNDO RIBERO\Desktop\PROYECTO NATURVIDA\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\EDMUNDO RIBERO\Desktop\PROYECTO NATURVIDA\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\EDMUNDO RIBERO\Desktop\PROYECTO NATURVIDA\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Sena CSET\Desktop\PROYECTO NATURVIDA\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaPresentacion\bin\Debug\CapaPresentacion.exe.manifest
+C:\Users\Sena CSET\Desktop\PROYECTO NATURVIDA\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaPresentacion\bin\Debug\CapaPresentacion.application
+C:\Users\Sena CSET\Desktop\PROYECTO NATURVIDA\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaPresentacion\obj\Debug\CapaPresentacion.exe.manifest
+C:\Users\Sena CSET\Desktop\PROYECTO NATURVIDA\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaPresentacion\obj\Debug\CapaPresentacion.application
+C:\Users\Sena CSET\Desktop\TIENDA-NATURVIDA-main\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Sena CSET\Desktop\TIENDA-NATURVIDA-main\CapaPresentacion\bin\Debug\CapaPresentacion.exe.manifest
+C:\Users\Sena CSET\Desktop\TIENDA-NATURVIDA-main\CapaPresentacion\bin\Debug\CapaPresentacion.application
+C:\Users\Sena CSET\Desktop\TIENDA-NATURVIDA-main\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\Sena CSET\Desktop\TIENDA-NATURVIDA-main\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Sena CSET\Desktop\TIENDA-NATURVIDA-main\CapaPresentacion\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Sena CSET\Desktop\TIENDA-NATURVIDA-main\CapaPresentacion\bin\Debug\CapaEntidades.dll
+C:\Users\Sena CSET\Desktop\TIENDA-NATURVIDA-main\CapaPresentacion\bin\Debug\CapaNegocios.dll
+C:\Users\Sena CSET\Desktop\TIENDA-NATURVIDA-main\CapaPresentacion\bin\Debug\itextsharp.dll
+C:\Users\Sena CSET\Desktop\TIENDA-NATURVIDA-main\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\Sena CSET\Desktop\TIENDA-NATURVIDA-main\CapaPresentacion\bin\Debug\CapaEntidades.pdb
+C:\Users\Sena CSET\Desktop\TIENDA-NATURVIDA-main\CapaPresentacion\bin\Debug\CapaNegocios.pdb
+C:\Users\Sena CSET\Desktop\TIENDA-NATURVIDA-main\CapaPresentacion\bin\Debug\itextsharp.xml
+C:\Users\Sena CSET\Desktop\TIENDA-NATURVIDA-main\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\Sena CSET\Desktop\TIENDA-NATURVIDA-main\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\Sena CSET\Desktop\TIENDA-NATURVIDA-main\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sena CSET\Desktop\TIENDA-NATURVIDA-main\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.ResolveComReference.cache
+C:\Users\Sena CSET\Desktop\TIENDA-NATURVIDA-main\CapaPresentacion\obj\Debug\CapaPresentacion.Principal.resources
+C:\Users\Sena CSET\Desktop\TIENDA-NATURVIDA-main\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Sena CSET\Desktop\TIENDA-NATURVIDA-main\CapaPresentacion\obj\Debug\CapaPresentacion.INICIO_SESION.resources
+C:\Users\Sena CSET\Desktop\TIENDA-NATURVIDA-main\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\Sena CSET\Desktop\TIENDA-NATURVIDA-main\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Sena CSET\Desktop\TIENDA-NATURVIDA-main\CapaPresentacion\obj\Debug\CapaPresentacion.exe.manifest
+C:\Users\Sena CSET\Desktop\TIENDA-NATURVIDA-main\CapaPresentacion\obj\Debug\CapaPresentacion.application
+C:\Users\Sena CSET\Desktop\TIENDA-NATURVIDA-main\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\Sena CSET\Desktop\TIENDA-NATURVIDA-main\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\Sena CSET\Desktop\TIENDA-NATURVIDA-main\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Sena CSET\Desktop\PROYECTO NATURVIDA SENA 2023\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Sena CSET\Desktop\PROYECTO NATURVIDA SENA 2023\CapaPresentacion\bin\Debug\CapaPresentacion.exe.manifest
+C:\Users\Sena CSET\Desktop\PROYECTO NATURVIDA SENA 2023\CapaPresentacion\bin\Debug\CapaPresentacion.application
+C:\Users\Sena CSET\Desktop\PROYECTO NATURVIDA SENA 2023\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\Sena CSET\Desktop\PROYECTO NATURVIDA SENA 2023\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Sena CSET\Desktop\PROYECTO NATURVIDA SENA 2023\CapaPresentacion\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Sena CSET\Desktop\PROYECTO NATURVIDA SENA 2023\CapaPresentacion\bin\Debug\CapaEntidades.dll
+C:\Users\Sena CSET\Desktop\PROYECTO NATURVIDA SENA 2023\CapaPresentacion\bin\Debug\CapaNegocios.dll
+C:\Users\Sena CSET\Desktop\PROYECTO NATURVIDA SENA 2023\CapaPresentacion\bin\Debug\itextsharp.dll
+C:\Users\Sena CSET\Desktop\PROYECTO NATURVIDA SENA 2023\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\Sena CSET\Desktop\PROYECTO NATURVIDA SENA 2023\CapaPresentacion\bin\Debug\CapaEntidades.pdb
+C:\Users\Sena CSET\Desktop\PROYECTO NATURVIDA SENA 2023\CapaPresentacion\bin\Debug\CapaNegocios.pdb
+C:\Users\Sena CSET\Desktop\PROYECTO NATURVIDA SENA 2023\CapaPresentacion\bin\Debug\itextsharp.xml
+C:\Users\Sena CSET\Desktop\PROYECTO NATURVIDA SENA 2023\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\Sena CSET\Desktop\PROYECTO NATURVIDA SENA 2023\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\Sena CSET\Desktop\PROYECTO NATURVIDA SENA 2023\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sena CSET\Desktop\PROYECTO NATURVIDA SENA 2023\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.ResolveComReference.cache
+C:\Users\Sena CSET\Desktop\PROYECTO NATURVIDA SENA 2023\CapaPresentacion\obj\Debug\CapaPresentacion.Principal.resources
+C:\Users\Sena CSET\Desktop\PROYECTO NATURVIDA SENA 2023\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Sena CSET\Desktop\PROYECTO NATURVIDA SENA 2023\CapaPresentacion\obj\Debug\CapaPresentacion.INICIO_SESION.resources
+C:\Users\Sena CSET\Desktop\PROYECTO NATURVIDA SENA 2023\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\Sena CSET\Desktop\PROYECTO NATURVIDA SENA 2023\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Sena CSET\Desktop\PROYECTO NATURVIDA SENA 2023\CapaPresentacion\obj\Debug\CapaPresentacion.exe.manifest
+C:\Users\Sena CSET\Desktop\PROYECTO NATURVIDA SENA 2023\CapaPresentacion\obj\Debug\CapaPresentacion.application
+C:\Users\Sena CSET\Desktop\PROYECTO NATURVIDA SENA 2023\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\Sena CSET\Desktop\PROYECTO NATURVIDA SENA 2023\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\Sena CSET\Desktop\PROYECTO NATURVIDA SENA 2023\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
