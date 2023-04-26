@@ -1,0 +1,38 @@
+C:\Users\57320\Desktop\NATURVIDA\Tienda Naturista Examen\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\57320\Desktop\NATURVIDA\Tienda Naturista Examen\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\57320\Desktop\NATURVIDA\Tienda Naturista Examen\CapaEntidades\obj\Debug\CapaEntidades.csproj.AssemblyReference.cache
+C:\Users\57320\Desktop\NATURVIDA\Tienda Naturista Examen\CapaEntidades\obj\Debug\CapaEntidades.csproj.CoreCompileInputs.cache
+C:\Users\57320\Desktop\NATURVIDA\Tienda Naturista Examen\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\57320\Desktop\NATURVIDA\Tienda Naturista Examen\CapaEntidades\obj\Debug\CapaEntidades.pdb
+C:\Users\EDMUNDO RIBERO\Desktop\NATURVIDA\Tienda Naturista Examen\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\EDMUNDO RIBERO\Desktop\NATURVIDA\Tienda Naturista Examen\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\EDMUNDO RIBERO\Desktop\NATURVIDA\Tienda Naturista Examen\CapaEntidades\obj\Debug\CapaEntidades.csproj.AssemblyReference.cache
+C:\Users\EDMUNDO RIBERO\Desktop\NATURVIDA\Tienda Naturista Examen\CapaEntidades\obj\Debug\CapaEntidades.csproj.CoreCompileInputs.cache
+C:\Users\EDMUNDO RIBERO\Desktop\NATURVIDA\Tienda Naturista Examen\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\EDMUNDO RIBERO\Desktop\NATURVIDA\Tienda Naturista Examen\CapaEntidades\obj\Debug\CapaEntidades.pdb
+C:\Users\Sena CSET\Desktop\NATURVIDA_2.0\NATURVIDA.2.0\Tienda Naturista Examen\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\Sena CSET\Desktop\NATURVIDA_2.0\NATURVIDA.2.0\Tienda Naturista Examen\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\Sena CSET\Desktop\NATURVIDA_2.0\NATURVIDA.2.0\Tienda Naturista Examen\CapaEntidades\obj\Debug\CapaEntidades.csproj.AssemblyReference.cache
+C:\Users\Sena CSET\Desktop\NATURVIDA_2.0\NATURVIDA.2.0\Tienda Naturista Examen\CapaEntidades\obj\Debug\CapaEntidades.csproj.CoreCompileInputs.cache
+C:\Users\Sena CSET\Desktop\NATURVIDA_2.0\NATURVIDA.2.0\Tienda Naturista Examen\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\Sena CSET\Desktop\NATURVIDA_2.0\NATURVIDA.2.0\Tienda Naturista Examen\CapaEntidades\obj\Debug\CapaEntidades.pdb
+C:\Users\Sena CSET\Desktop\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\Sena CSET\Desktop\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\Sena CSET\Desktop\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaEntidades\obj\Debug\CapaEntidades.csproj.AssemblyReference.cache
+C:\Users\Sena CSET\Desktop\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaEntidades\obj\Debug\CapaEntidades.csproj.CoreCompileInputs.cache
+C:\Users\Sena CSET\Desktop\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\Sena CSET\Desktop\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaEntidades\obj\Debug\CapaEntidades.pdb
+C:\Users\Sena CSET\Desktop\PROYECTO NATURVIDA\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\Sena CSET\Desktop\PROYECTO NATURVIDA\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\Sena CSET\Desktop\PROYECTO NATURVIDA\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaEntidades\obj\Debug\CapaEntidades.csproj.AssemblyReference.cache
+C:\Users\Sena CSET\Desktop\PROYECTO NATURVIDA\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaEntidades\obj\Debug\CapaEntidades.csproj.ResolveComReference.cache
+C:\Users\Sena CSET\Desktop\PROYECTO NATURVIDA\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaEntidades\obj\Debug\CapaEntidades.csproj.CoreCompileInputs.cache
+C:\Users\Sena CSET\Desktop\PROYECTO NATURVIDA\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\Sena CSET\Desktop\PROYECTO NATURVIDA\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaEntidades\obj\Debug\CapaEntidades.pdb
+C:\Users\Sena CSET\Desktop\TIENDA-NATURVIDA-main\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\Sena CSET\Desktop\TIENDA-NATURVIDA-main\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\Sena CSET\Desktop\TIENDA-NATURVIDA-main\CapaEntidades\obj\Debug\CapaEntidades.csproj.AssemblyReference.cache
+C:\Users\Sena CSET\Desktop\TIENDA-NATURVIDA-main\CapaEntidades\obj\Debug\CapaEntidades.csproj.ResolveComReference.cache
+C:\Users\Sena CSET\Desktop\TIENDA-NATURVIDA-main\CapaEntidades\obj\Debug\CapaEntidades.csproj.CoreCompileInputs.cache
+C:\Users\Sena CSET\Desktop\TIENDA-NATURVIDA-main\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\Sena CSET\Desktop\TIENDA-NATURVIDA-main\CapaEntidades\obj\Debug\CapaEntidades.pdb
