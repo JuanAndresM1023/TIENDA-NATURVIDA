@@ -1,0 +1,84 @@
+C:\Users\Sena CSET\Desktop\Tienda Naturista Examen\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Sena CSET\Desktop\Tienda Naturista Examen\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Sena CSET\Desktop\Tienda Naturista Examen\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\Sena CSET\Desktop\Tienda Naturista Examen\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Sena CSET\Desktop\Tienda Naturista Examen\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Sena CSET\Desktop\Tienda Naturista Examen\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\57320\Desktop\NATURVIDA\Tienda Naturista Examen- - 3 capas\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\57320\Desktop\NATURVIDA\Tienda Naturista Examen- - 3 capas\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\57320\Desktop\NATURVIDA\Tienda Naturista Examen- - 3 capas\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\57320\Desktop\NATURVIDA\Tienda Naturista Examen- - 3 capas\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\57320\Desktop\NATURVIDA\Tienda Naturista Examen- - 3 capas\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\57320\Desktop\NATURVIDA\Tienda Naturista Examen- - 3 capas\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\57320\Desktop\NATURVIDA\Tienda Naturista Examen\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\57320\Desktop\NATURVIDA\Tienda Naturista Examen\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\57320\Desktop\NATURVIDA\Tienda Naturista Examen\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\57320\Desktop\NATURVIDA\Tienda Naturista Examen\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\57320\Desktop\NATURVIDA\Tienda Naturista Examen\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\57320\Desktop\NATURVIDA\Tienda Naturista Examen\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\57320\Desktop\NATURVIDA\Tienda Naturista Examen\CapaDatos\bin\Debug\CapaEntidades.dll
+C:\Users\57320\Desktop\NATURVIDA\Tienda Naturista Examen\CapaDatos\bin\Debug\CapaEntidades.pdb
+C:\Users\57320\Desktop\NATURVIDA\Tienda Naturista Examen\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\EDMUNDO RIBERO\Desktop\NATURVIDA\Tienda Naturista Examen\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\EDMUNDO RIBERO\Desktop\NATURVIDA\Tienda Naturista Examen\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\EDMUNDO RIBERO\Desktop\NATURVIDA\Tienda Naturista Examen\CapaDatos\bin\Debug\CapaEntidades.dll
+C:\Users\EDMUNDO RIBERO\Desktop\NATURVIDA\Tienda Naturista Examen\CapaDatos\bin\Debug\CapaEntidades.pdb
+C:\Users\EDMUNDO RIBERO\Desktop\NATURVIDA\Tienda Naturista Examen\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\EDMUNDO RIBERO\Desktop\NATURVIDA\Tienda Naturista Examen\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\EDMUNDO RIBERO\Desktop\NATURVIDA\Tienda Naturista Examen\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\EDMUNDO RIBERO\Desktop\NATURVIDA\Tienda Naturista Examen\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\EDMUNDO RIBERO\Desktop\NATURVIDA\Tienda Naturista Examen\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Sena CSET\Desktop\NATURVIDA_2.0\NATURVIDA.2.0\Tienda Naturista Examen\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Sena CSET\Desktop\NATURVIDA_2.0\NATURVIDA.2.0\Tienda Naturista Examen\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Sena CSET\Desktop\NATURVIDA_2.0\NATURVIDA.2.0\Tienda Naturista Examen\CapaDatos\bin\Debug\CapaEntidades.dll
+C:\Users\Sena CSET\Desktop\NATURVIDA_2.0\NATURVIDA.2.0\Tienda Naturista Examen\CapaDatos\bin\Debug\CapaEntidades.pdb
+C:\Users\Sena CSET\Desktop\NATURVIDA_2.0\NATURVIDA.2.0\Tienda Naturista Examen\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\Sena CSET\Desktop\NATURVIDA_2.0\NATURVIDA.2.0\Tienda Naturista Examen\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Sena CSET\Desktop\NATURVIDA_2.0\NATURVIDA.2.0\Tienda Naturista Examen\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\Sena CSET\Desktop\NATURVIDA_2.0\NATURVIDA.2.0\Tienda Naturista Examen\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Sena CSET\Desktop\NATURVIDA_2.0\NATURVIDA.2.0\Tienda Naturista Examen\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Sena CSET\Desktop\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Sena CSET\Desktop\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Sena CSET\Desktop\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaDatos\bin\Debug\CapaEntidades.dll
+C:\Users\Sena CSET\Desktop\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaDatos\bin\Debug\CapaEntidades.pdb
+C:\Users\Sena CSET\Desktop\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\Sena CSET\Desktop\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Sena CSET\Desktop\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\Sena CSET\Desktop\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Sena CSET\Desktop\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Sena CSET\Desktop\PROYECTO NATURVIDA\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Sena CSET\Desktop\PROYECTO NATURVIDA\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Sena CSET\Desktop\PROYECTO NATURVIDA\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaDatos\bin\Debug\CapaEntidades.dll
+C:\Users\Sena CSET\Desktop\PROYECTO NATURVIDA\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaDatos\bin\Debug\CapaEntidades.pdb
+C:\Users\Sena CSET\Desktop\PROYECTO NATURVIDA\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\Sena CSET\Desktop\PROYECTO NATURVIDA\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Sena CSET\Desktop\PROYECTO NATURVIDA\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\Sena CSET\Desktop\PROYECTO NATURVIDA\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Sena CSET\Desktop\PROYECTO NATURVIDA\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\EDMUNDO RIBERO\Desktop\PROYECTO NATURVIDA\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\EDMUNDO RIBERO\Desktop\PROYECTO NATURVIDA\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\EDMUNDO RIBERO\Desktop\PROYECTO NATURVIDA\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaDatos\bin\Debug\CapaEntidades.dll
+C:\Users\EDMUNDO RIBERO\Desktop\PROYECTO NATURVIDA\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaDatos\bin\Debug\CapaEntidades.pdb
+C:\Users\EDMUNDO RIBERO\Desktop\PROYECTO NATURVIDA\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\EDMUNDO RIBERO\Desktop\PROYECTO NATURVIDA\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\EDMUNDO RIBERO\Desktop\PROYECTO NATURVIDA\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\EDMUNDO RIBERO\Desktop\PROYECTO NATURVIDA\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\EDMUNDO RIBERO\Desktop\PROYECTO NATURVIDA\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Sena CSET\Desktop\TIENDA-NATURVIDA-main\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Sena CSET\Desktop\TIENDA-NATURVIDA-main\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Sena CSET\Desktop\TIENDA-NATURVIDA-main\CapaDatos\bin\Debug\CapaEntidades.dll
+C:\Users\Sena CSET\Desktop\TIENDA-NATURVIDA-main\CapaDatos\bin\Debug\CapaEntidades.pdb
+C:\Users\Sena CSET\Desktop\TIENDA-NATURVIDA-main\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\Sena CSET\Desktop\TIENDA-NATURVIDA-main\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Sena CSET\Desktop\TIENDA-NATURVIDA-main\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\Sena CSET\Desktop\TIENDA-NATURVIDA-main\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Sena CSET\Desktop\TIENDA-NATURVIDA-main\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Sena CSET\Desktop\PROYECTO NATURVIDA SENA 2023\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Sena CSET\Desktop\PROYECTO NATURVIDA SENA 2023\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Sena CSET\Desktop\PROYECTO NATURVIDA SENA 2023\CapaDatos\bin\Debug\CapaEntidades.dll
+C:\Users\Sena CSET\Desktop\PROYECTO NATURVIDA SENA 2023\CapaDatos\bin\Debug\CapaEntidades.pdb
+C:\Users\Sena CSET\Desktop\PROYECTO NATURVIDA SENA 2023\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\Sena CSET\Desktop\PROYECTO NATURVIDA SENA 2023\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Sena CSET\Desktop\PROYECTO NATURVIDA SENA 2023\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\Sena CSET\Desktop\PROYECTO NATURVIDA SENA 2023\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Sena CSET\Desktop\PROYECTO NATURVIDA SENA 2023\CapaDatos\obj\Debug\CapaDatos.pdb
