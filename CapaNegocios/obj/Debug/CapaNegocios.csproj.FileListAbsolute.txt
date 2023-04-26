@@ -1,0 +1,106 @@
+C:\Users\Sena CSET\Desktop\Tienda Naturista Examen\CapaNegocios\bin\Debug\CapaNegocios.dll
+C:\Users\Sena CSET\Desktop\Tienda Naturista Examen\CapaNegocios\bin\Debug\CapaNegocios.pdb
+C:\Users\Sena CSET\Desktop\Tienda Naturista Examen\CapaNegocios\bin\Debug\CapaDatos.dll
+C:\Users\Sena CSET\Desktop\Tienda Naturista Examen\CapaNegocios\bin\Debug\CapaDatos.pdb
+C:\Users\Sena CSET\Desktop\Tienda Naturista Examen\CapaNegocios\obj\Debug\CapaNegocios.csproj.AssemblyReference.cache
+C:\Users\Sena CSET\Desktop\Tienda Naturista Examen\CapaNegocios\obj\Debug\CapaNegocios.csproj.CoreCompileInputs.cache
+C:\Users\Sena CSET\Desktop\Tienda Naturista Examen\CapaNegocios\obj\Debug\CapaNegocios.csproj.CopyComplete
+C:\Users\Sena CSET\Desktop\Tienda Naturista Examen\CapaNegocios\obj\Debug\CapaNegocios.dll
+C:\Users\Sena CSET\Desktop\Tienda Naturista Examen\CapaNegocios\obj\Debug\CapaNegocios.pdb
+C:\Users\57320\Desktop\NATURVIDA\Tienda Naturista Examen- - 3 capas\CapaNegocios\bin\Debug\CapaNegocios.dll
+C:\Users\57320\Desktop\NATURVIDA\Tienda Naturista Examen- - 3 capas\CapaNegocios\bin\Debug\CapaNegocios.pdb
+C:\Users\57320\Desktop\NATURVIDA\Tienda Naturista Examen- - 3 capas\CapaNegocios\bin\Debug\CapaDatos.dll
+C:\Users\57320\Desktop\NATURVIDA\Tienda Naturista Examen- - 3 capas\CapaNegocios\bin\Debug\CapaDatos.pdb
+C:\Users\57320\Desktop\NATURVIDA\Tienda Naturista Examen- - 3 capas\CapaNegocios\obj\Debug\CapaNegocios.csproj.AssemblyReference.cache
+C:\Users\57320\Desktop\NATURVIDA\Tienda Naturista Examen- - 3 capas\CapaNegocios\obj\Debug\CapaNegocios.csproj.CoreCompileInputs.cache
+C:\Users\57320\Desktop\NATURVIDA\Tienda Naturista Examen- - 3 capas\CapaNegocios\obj\Debug\CapaNegocios.csproj.CopyComplete
+C:\Users\57320\Desktop\NATURVIDA\Tienda Naturista Examen- - 3 capas\CapaNegocios\obj\Debug\CapaNegocios.dll
+C:\Users\57320\Desktop\NATURVIDA\Tienda Naturista Examen- - 3 capas\CapaNegocios\obj\Debug\CapaNegocios.pdb
+C:\Users\57320\Desktop\NATURVIDA\Tienda Naturista Examen\CapaNegocios\bin\Debug\CapaNegocios.dll
+C:\Users\57320\Desktop\NATURVIDA\Tienda Naturista Examen\CapaNegocios\bin\Debug\CapaNegocios.pdb
+C:\Users\57320\Desktop\NATURVIDA\Tienda Naturista Examen\CapaNegocios\bin\Debug\CapaDatos.dll
+C:\Users\57320\Desktop\NATURVIDA\Tienda Naturista Examen\CapaNegocios\bin\Debug\CapaDatos.pdb
+C:\Users\57320\Desktop\NATURVIDA\Tienda Naturista Examen\CapaNegocios\obj\Debug\CapaNegocios.csproj.AssemblyReference.cache
+C:\Users\57320\Desktop\NATURVIDA\Tienda Naturista Examen\CapaNegocios\obj\Debug\CapaNegocios.csproj.CoreCompileInputs.cache
+C:\Users\57320\Desktop\NATURVIDA\Tienda Naturista Examen\CapaNegocios\obj\Debug\CapaNegocios.csproj.CopyComplete
+C:\Users\57320\Desktop\NATURVIDA\Tienda Naturista Examen\CapaNegocios\obj\Debug\CapaNegocios.dll
+C:\Users\57320\Desktop\NATURVIDA\Tienda Naturista Examen\CapaNegocios\obj\Debug\CapaNegocios.pdb
+C:\Users\57320\Desktop\NATURVIDA\Tienda Naturista Examen\CapaNegocios\bin\Debug\CapaEntidades.dll
+C:\Users\57320\Desktop\NATURVIDA\Tienda Naturista Examen\CapaNegocios\bin\Debug\CapaEntidades.pdb
+C:\Users\EDMUNDO RIBERO\Desktop\NATURVIDA\Tienda Naturista Examen\CapaNegocios\bin\Debug\CapaNegocios.dll
+C:\Users\EDMUNDO RIBERO\Desktop\NATURVIDA\Tienda Naturista Examen\CapaNegocios\bin\Debug\CapaNegocios.pdb
+C:\Users\EDMUNDO RIBERO\Desktop\NATURVIDA\Tienda Naturista Examen\CapaNegocios\bin\Debug\CapaDatos.dll
+C:\Users\EDMUNDO RIBERO\Desktop\NATURVIDA\Tienda Naturista Examen\CapaNegocios\bin\Debug\CapaEntidades.dll
+C:\Users\EDMUNDO RIBERO\Desktop\NATURVIDA\Tienda Naturista Examen\CapaNegocios\bin\Debug\CapaDatos.pdb
+C:\Users\EDMUNDO RIBERO\Desktop\NATURVIDA\Tienda Naturista Examen\CapaNegocios\bin\Debug\CapaEntidades.pdb
+C:\Users\EDMUNDO RIBERO\Desktop\NATURVIDA\Tienda Naturista Examen\CapaNegocios\obj\Debug\CapaNegocios.csproj.AssemblyReference.cache
+C:\Users\EDMUNDO RIBERO\Desktop\NATURVIDA\Tienda Naturista Examen\CapaNegocios\obj\Debug\CapaNegocios.csproj.CoreCompileInputs.cache
+C:\Users\EDMUNDO RIBERO\Desktop\NATURVIDA\Tienda Naturista Examen\CapaNegocios\obj\Debug\CapaNegocios.csproj.CopyComplete
+C:\Users\EDMUNDO RIBERO\Desktop\NATURVIDA\Tienda Naturista Examen\CapaNegocios\obj\Debug\CapaNegocios.dll
+C:\Users\EDMUNDO RIBERO\Desktop\NATURVIDA\Tienda Naturista Examen\CapaNegocios\obj\Debug\CapaNegocios.pdb
+C:\Users\Sena CSET\Desktop\NATURVIDA_2.0\NATURVIDA.2.0\Tienda Naturista Examen\CapaNegocios\bin\Debug\CapaNegocios.dll
+C:\Users\Sena CSET\Desktop\NATURVIDA_2.0\NATURVIDA.2.0\Tienda Naturista Examen\CapaNegocios\bin\Debug\CapaNegocios.pdb
+C:\Users\Sena CSET\Desktop\NATURVIDA_2.0\NATURVIDA.2.0\Tienda Naturista Examen\CapaNegocios\bin\Debug\CapaDatos.dll
+C:\Users\Sena CSET\Desktop\NATURVIDA_2.0\NATURVIDA.2.0\Tienda Naturista Examen\CapaNegocios\bin\Debug\CapaEntidades.dll
+C:\Users\Sena CSET\Desktop\NATURVIDA_2.0\NATURVIDA.2.0\Tienda Naturista Examen\CapaNegocios\bin\Debug\CapaDatos.pdb
+C:\Users\Sena CSET\Desktop\NATURVIDA_2.0\NATURVIDA.2.0\Tienda Naturista Examen\CapaNegocios\bin\Debug\CapaEntidades.pdb
+C:\Users\Sena CSET\Desktop\NATURVIDA_2.0\NATURVIDA.2.0\Tienda Naturista Examen\CapaNegocios\obj\Debug\CapaNegocios.csproj.AssemblyReference.cache
+C:\Users\Sena CSET\Desktop\NATURVIDA_2.0\NATURVIDA.2.0\Tienda Naturista Examen\CapaNegocios\obj\Debug\CapaNegocios.csproj.CoreCompileInputs.cache
+C:\Users\Sena CSET\Desktop\NATURVIDA_2.0\NATURVIDA.2.0\Tienda Naturista Examen\CapaNegocios\obj\Debug\CapaNegocios.csproj.CopyComplete
+C:\Users\Sena CSET\Desktop\NATURVIDA_2.0\NATURVIDA.2.0\Tienda Naturista Examen\CapaNegocios\obj\Debug\CapaNegocios.dll
+C:\Users\Sena CSET\Desktop\NATURVIDA_2.0\NATURVIDA.2.0\Tienda Naturista Examen\CapaNegocios\obj\Debug\CapaNegocios.pdb
+C:\Users\Sena CSET\Desktop\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaNegocios\bin\Debug\CapaNegocios.dll
+C:\Users\Sena CSET\Desktop\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaNegocios\bin\Debug\CapaNegocios.pdb
+C:\Users\Sena CSET\Desktop\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaNegocios\bin\Debug\CapaDatos.dll
+C:\Users\Sena CSET\Desktop\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaNegocios\bin\Debug\CapaEntidades.dll
+C:\Users\Sena CSET\Desktop\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaNegocios\bin\Debug\CapaDatos.pdb
+C:\Users\Sena CSET\Desktop\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaNegocios\bin\Debug\CapaEntidades.pdb
+C:\Users\Sena CSET\Desktop\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaNegocios\obj\Debug\CapaNegocios.csproj.AssemblyReference.cache
+C:\Users\Sena CSET\Desktop\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaNegocios\obj\Debug\CapaNegocios.csproj.CoreCompileInputs.cache
+C:\Users\Sena CSET\Desktop\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaNegocios\obj\Debug\CapaNegocios.csproj.CopyComplete
+C:\Users\Sena CSET\Desktop\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaNegocios\obj\Debug\CapaNegocios.dll
+C:\Users\Sena CSET\Desktop\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaNegocios\obj\Debug\CapaNegocios.pdb
+C:\Users\Sena CSET\Desktop\PROYECTO NATURVIDA\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaNegocios\bin\Debug\CapaNegocios.dll
+C:\Users\Sena CSET\Desktop\PROYECTO NATURVIDA\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaNegocios\bin\Debug\CapaNegocios.pdb
+C:\Users\Sena CSET\Desktop\PROYECTO NATURVIDA\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaNegocios\bin\Debug\CapaDatos.dll
+C:\Users\Sena CSET\Desktop\PROYECTO NATURVIDA\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaNegocios\bin\Debug\CapaEntidades.dll
+C:\Users\Sena CSET\Desktop\PROYECTO NATURVIDA\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaNegocios\bin\Debug\CapaDatos.pdb
+C:\Users\Sena CSET\Desktop\PROYECTO NATURVIDA\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaNegocios\bin\Debug\CapaEntidades.pdb
+C:\Users\Sena CSET\Desktop\PROYECTO NATURVIDA\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaNegocios\obj\Debug\CapaNegocios.csproj.AssemblyReference.cache
+C:\Users\Sena CSET\Desktop\PROYECTO NATURVIDA\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaNegocios\obj\Debug\CapaNegocios.csproj.CoreCompileInputs.cache
+C:\Users\Sena CSET\Desktop\PROYECTO NATURVIDA\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaNegocios\obj\Debug\CapaNegocios.csproj.CopyComplete
+C:\Users\Sena CSET\Desktop\PROYECTO NATURVIDA\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaNegocios\obj\Debug\CapaNegocios.dll
+C:\Users\Sena CSET\Desktop\PROYECTO NATURVIDA\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaNegocios\obj\Debug\CapaNegocios.pdb
+C:\Users\EDMUNDO RIBERO\Desktop\PROYECTO NATURVIDA\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaNegocios\bin\Debug\CapaNegocios.dll
+C:\Users\EDMUNDO RIBERO\Desktop\PROYECTO NATURVIDA\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaNegocios\bin\Debug\CapaNegocios.pdb
+C:\Users\EDMUNDO RIBERO\Desktop\PROYECTO NATURVIDA\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaNegocios\bin\Debug\CapaDatos.dll
+C:\Users\EDMUNDO RIBERO\Desktop\PROYECTO NATURVIDA\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaNegocios\bin\Debug\CapaEntidades.dll
+C:\Users\EDMUNDO RIBERO\Desktop\PROYECTO NATURVIDA\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaNegocios\bin\Debug\CapaDatos.pdb
+C:\Users\EDMUNDO RIBERO\Desktop\PROYECTO NATURVIDA\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaNegocios\bin\Debug\CapaEntidades.pdb
+C:\Users\EDMUNDO RIBERO\Desktop\PROYECTO NATURVIDA\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaNegocios\obj\Debug\CapaNegocios.csproj.AssemblyReference.cache
+C:\Users\EDMUNDO RIBERO\Desktop\PROYECTO NATURVIDA\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaNegocios\obj\Debug\CapaNegocios.csproj.CoreCompileInputs.cache
+C:\Users\EDMUNDO RIBERO\Desktop\PROYECTO NATURVIDA\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaNegocios\obj\Debug\CapaNegocios.csproj.CopyComplete
+C:\Users\EDMUNDO RIBERO\Desktop\PROYECTO NATURVIDA\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaNegocios\obj\Debug\CapaNegocios.dll
+C:\Users\EDMUNDO RIBERO\Desktop\PROYECTO NATURVIDA\NATURVIDA OFICIAL\NATURVIDA.2.0\Tienda Naturista Examen\CapaNegocios\obj\Debug\CapaNegocios.pdb
+C:\Users\Sena CSET\Desktop\TIENDA-NATURVIDA-main\CapaNegocios\bin\Debug\CapaNegocios.dll
+C:\Users\Sena CSET\Desktop\TIENDA-NATURVIDA-main\CapaNegocios\bin\Debug\CapaNegocios.pdb
+C:\Users\Sena CSET\Desktop\TIENDA-NATURVIDA-main\CapaNegocios\bin\Debug\CapaDatos.dll
+C:\Users\Sena CSET\Desktop\TIENDA-NATURVIDA-main\CapaNegocios\bin\Debug\CapaEntidades.dll
+C:\Users\Sena CSET\Desktop\TIENDA-NATURVIDA-main\CapaNegocios\bin\Debug\CapaDatos.pdb
+C:\Users\Sena CSET\Desktop\TIENDA-NATURVIDA-main\CapaNegocios\bin\Debug\CapaEntidades.pdb
+C:\Users\Sena CSET\Desktop\TIENDA-NATURVIDA-main\CapaNegocios\obj\Debug\CapaNegocios.csproj.AssemblyReference.cache
+C:\Users\Sena CSET\Desktop\TIENDA-NATURVIDA-main\CapaNegocios\obj\Debug\CapaNegocios.csproj.CoreCompileInputs.cache
+C:\Users\Sena CSET\Desktop\TIENDA-NATURVIDA-main\CapaNegocios\obj\Debug\CapaNegocios.csproj.CopyComplete
+C:\Users\Sena CSET\Desktop\TIENDA-NATURVIDA-main\CapaNegocios\obj\Debug\CapaNegocios.dll
+C:\Users\Sena CSET\Desktop\TIENDA-NATURVIDA-main\CapaNegocios\obj\Debug\CapaNegocios.pdb
+C:\Users\Sena CSET\Desktop\PROYECTO NATURVIDA SENA 2023\CapaNegocios\bin\Debug\CapaNegocios.dll
+C:\Users\Sena CSET\Desktop\PROYECTO NATURVIDA SENA 2023\CapaNegocios\bin\Debug\CapaNegocios.pdb
+C:\Users\Sena CSET\Desktop\PROYECTO NATURVIDA SENA 2023\CapaNegocios\bin\Debug\CapaDatos.dll
+C:\Users\Sena CSET\Desktop\PROYECTO NATURVIDA SENA 2023\CapaNegocios\bin\Debug\CapaEntidades.dll
+C:\Users\Sena CSET\Desktop\PROYECTO NATURVIDA SENA 2023\CapaNegocios\bin\Debug\CapaDatos.pdb
+C:\Users\Sena CSET\Desktop\PROYECTO NATURVIDA SENA 2023\CapaNegocios\bin\Debug\CapaEntidades.pdb
+C:\Users\Sena CSET\Desktop\PROYECTO NATURVIDA SENA 2023\CapaNegocios\obj\Debug\CapaNegocios.csproj.AssemblyReference.cache
+C:\Users\Sena CSET\Desktop\PROYECTO NATURVIDA SENA 2023\CapaNegocios\obj\Debug\CapaNegocios.csproj.CoreCompileInputs.cache
+C:\Users\Sena CSET\Desktop\PROYECTO NATURVIDA SENA 2023\CapaNegocios\obj\Debug\CapaNegocios.csproj.CopyComplete
+C:\Users\Sena CSET\Desktop\PROYECTO NATURVIDA SENA 2023\CapaNegocios\obj\Debug\CapaNegocios.dll
+C:\Users\Sena CSET\Desktop\PROYECTO NATURVIDA SENA 2023\CapaNegocios\obj\Debug\CapaNegocios.pdb
